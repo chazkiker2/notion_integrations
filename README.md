@@ -1,3 +1,3 @@
-# This is a mono-repo for Notion Integrations
+# Notion Integrations
 
-
+This is a mono-repo for my personal Notion integrations.
