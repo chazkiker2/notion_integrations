@@ -1,0 +1,14 @@
+{
+  "name": "upload-md-to-notion",
+  "version": "1.0.0",
+  "description": "A Notion Integration that accepts a Markdown file and uploads to a Notion page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Chaz Kiker",
+  "license": "MIT",
+  "dependencies": {
+    "@notionhq/client": "latest"
+  }
+}
